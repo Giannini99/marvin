@@ -1,6 +1,3 @@
-function MostrarNome(Marvin)    {
-console.log("Marvin");
-  //Quem eu sou
+function mostrarNome() {
+    console.log("Marvin")
 }
-
-MostrarNome()
