@@ -1,10 +1,4 @@
-function MostrarNome()    {
-    console.log("Marvin");
-    
-}
-
-MostrarNome()
-
-function NomeDeVolta()  {
-    console.log("O androide Paranoide")
+function nomeDeVolta() {
+    console.log("marvin");
+    return ("Android Paranoide")
 }
