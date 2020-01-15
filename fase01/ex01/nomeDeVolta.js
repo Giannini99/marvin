@@ -8,5 +8,3 @@ MostrarNome()
 function NomeDeVolta()  {
     console.log("O androide Paranoide")
 }
-
-NomeDeVolta()
