@@ -17,9 +17,10 @@ function vogalOuConsoante(letra)    {
     return "Vogal"
     else if (letra=="U")
     return "Vogal"
-    else if (letra=="U")
+    else if (letra=="u")
     return "Vogal"
     else
     return "Consoante"
 
 }
+
