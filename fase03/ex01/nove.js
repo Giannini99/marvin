@@ -3,9 +3,8 @@ function nove(numero)   {
     var n2 = n1.substring(n1.length-1,n1.length);
     
     if (n2==="9")
-    return "true"
+    return true
     else 
-    return "false"
+    return false
     
 }
-
